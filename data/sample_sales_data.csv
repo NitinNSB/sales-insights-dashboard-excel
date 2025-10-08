@@ -1,0 +1,51 @@
+Order_ID,Order_Date,Customer_ID,Customer_Name,Region,Product_Category,Product_Name,Quantity,Unit_Price,Total_Amount,Sales_Rep,Payment_Method
+ORD001,2024-01-05,CUST101,Acme Corporation,North,Electronics,Laptop Pro 15,5,1200.00,6000.00,John Smith,Credit Card
+ORD002,2024-01-08,CUST102,Tech Solutions Inc,South,Office Supplies,Wireless Mouse,25,35.00,875.00,Sarah Johnson,Wire Transfer
+ORD003,2024-01-12,CUST103,Global Enterprises,East,Electronics,4K Monitor,10,450.00,4500.00,Mike Davis,Credit Card
+ORD004,2024-01-15,CUST104,StartUp Ventures,West,Furniture,Ergonomic Chair,8,350.00,2800.00,Emily Brown,Check
+ORD005,2024-01-18,CUST105,Innovate Labs,North,Electronics,Mechanical Keyboard,15,120.00,1800.00,John Smith,Credit Card
+ORD006,2024-01-22,CUST106,Business Hub,South,Office Supplies,Desk Organizer,50,25.00,1250.00,Sarah Johnson,Wire Transfer
+ORD007,2024-01-25,CUST107,TechCorp Limited,East,Electronics,Webcam HD,20,85.00,1700.00,Mike Davis,Credit Card
+ORD008,2024-01-28,CUST108,Creative Studios,West,Furniture,Standing Desk,6,550.00,3300.00,Emily Brown,Wire Transfer
+ORD009,2024-02-02,CUST109,Digital Agency,North,Office Supplies,Printer Paper,100,8.50,850.00,John Smith,Check
+ORD010,2024-02-05,CUST110,Smart Solutions,South,Electronics,USB-C Hub,30,45.00,1350.00,Sarah Johnson,Credit Card
+ORD011,2024-02-08,CUST111,Enterprise Co,East,Furniture,Conference Table,2,1200.00,2400.00,Mike Davis,Wire Transfer
+ORD012,2024-02-12,CUST112,Retail Express,West,Office Supplies,Stapler Set,40,15.00,600.00,Emily Brown,Credit Card
+ORD013,2024-02-15,CUST101,Acme Corporation,North,Electronics,Wireless Headset,12,95.00,1140.00,John Smith,Credit Card
+ORD014,2024-02-18,CUST113,Finance Pro,South,Furniture,Filing Cabinet,5,280.00,1400.00,Sarah Johnson,Check
+ORD015,2024-02-22,CUST114,Marketing Plus,East,Office Supplies,Whiteboard,8,120.00,960.00,Mike Davis,Wire Transfer
+ORD016,2024-02-25,CUST115,Consulting Group,West,Electronics,Laptop Bag,18,55.00,990.00,Emily Brown,Credit Card
+ORD017,2024-02-28,CUST116,Operations LLC,North,Office Supplies,File Folders,80,5.50,440.00,John Smith,Check
+ORD018,2024-03-02,CUST117,Development Inc,South,Electronics,External SSD 1TB,15,180.00,2700.00,Sarah Johnson,Credit Card
+ORD019,2024-03-05,CUST118,Strategy Partners,East,Furniture,Bookshelf,7,220.00,1540.00,Mike Davis,Wire Transfer
+ORD020,2024-03-08,CUST119,Analytics Corp,West,Electronics,Graphics Tablet,10,250.00,2500.00,Emily Brown,Credit Card
+ORD021,2024-03-12,CUST120,Cloud Services,North,Office Supplies,Notebook Set,60,12.00,720.00,John Smith,Wire Transfer
+ORD022,2024-03-15,CUST102,Tech Solutions Inc,South,Electronics,Docking Station,8,150.00,1200.00,Sarah Johnson,Credit Card
+ORD023,2024-03-18,CUST121,Data Systems,East,Furniture,Office Chair,12,280.00,3360.00,Mike Davis,Check
+ORD024,2024-03-22,CUST122,Mobile Apps Co,West,Office Supplies,Pen Set,100,8.00,800.00,Emily Brown,Credit Card
+ORD025,2024-03-25,CUST103,Global Enterprises,North,Electronics,Laptop Stand,20,65.00,1300.00,John Smith,Wire Transfer
+ORD026,2024-03-28,CUST123,Web Design Ltd,South,Furniture,Desk Lamp,25,45.00,1125.00,Sarah Johnson,Credit Card
+ORD027,2024-04-01,CUST124,Software House,East,Electronics,Portable Charger,35,40.00,1400.00,Mike Davis,Wire Transfer
+ORD028,2024-04-05,CUST125,Security Tech,West,Office Supplies,Binder Clips,70,6.50,455.00,Emily Brown,Check
+ORD029,2024-04-08,CUST126,Network Solutions,North,Electronics,Router Pro,9,180.00,1620.00,John Smith,Credit Card
+ORD030,2024-04-12,CUST127,Business Apps,South,Furniture,Storage Cabinet,4,420.00,1680.00,Sarah Johnson,Wire Transfer
+ORD031,2024-04-15,CUST128,IT Services,East,Office Supplies,Desk Pad,45,22.00,990.00,Mike Davis,Credit Card
+ORD032,2024-04-18,CUST129,Platform Inc,West,Electronics,Smart Speaker,16,95.00,1520.00,Emily Brown,Wire Transfer
+ORD033,2024-04-22,CUST130,Cloud Platform,North,Furniture,Monitor Stand,28,38.00,1064.00,John Smith,Check
+ORD034,2024-04-25,CUST104,StartUp Ventures,South,Electronics,Cable Management,40,18.00,720.00,Sarah Johnson,Credit Card
+ORD035,2024-04-28,CUST131,API Solutions,East,Office Supplies,Sticky Notes,90,4.50,405.00,Mike Davis,Wire Transfer
+ORD036,2024-05-02,CUST132,Database Corp,West,Electronics,Backup Drive 2TB,12,220.00,2640.00,Emily Brown,Credit Card
+ORD037,2024-05-05,CUST133,Integration Ltd,North,Furniture,Footrest,22,45.00,990.00,John Smith,Check
+ORD038,2024-05-08,CUST134,Testing Services,South,Office Supplies,Calculator,35,25.00,875.00,Sarah Johnson,Wire Transfer
+ORD039,2024-05-12,CUST135,Quality Assurance,East,Electronics,LED Desk Light,18,55.00,990.00,Mike Davis,Credit Card
+ORD040,2024-05-15,CUST136,Support Team,West,Furniture,Privacy Panel,6,180.00,1080.00,Emily Brown,Wire Transfer
+ORD041,2024-05-18,CUST105,Innovate Labs,North,Electronics,Tablet 10 inch,8,380.00,3040.00,John Smith,Credit Card
+ORD042,2024-05-22,CUST137,Training Center,South,Office Supplies,Presentation Clicker,15,35.00,525.00,Sarah Johnson,Check
+ORD043,2024-05-25,CUST138,Education Tech,East,Electronics,Document Scanner,7,280.00,1960.00,Mike Davis,Wire Transfer
+ORD044,2024-05-28,CUST139,Learning Platform,West,Furniture,Whiteboard Stand,5,320.00,1600.00,Emily Brown,Credit Card
+ORD045,2024-06-01,CUST140,Research Lab,North,Office Supplies,Label Maker,12,45.00,540.00,John Smith,Wire Transfer
+ORD046,2024-06-05,CUST106,Business Hub,South,Electronics,Bluetooth Speaker,20,75.00,1500.00,Sarah Johnson,Credit Card
+ORD047,2024-06-08,CUST141,Innovation Hub,East,Furniture,Task Chair,14,240.00,3360.00,Mike Davis,Check
+ORD048,2024-06-12,CUST142,Startup Incubator,West,Office Supplies,Desk Calendar,55,12.00,660.00,Emily Brown,Wire Transfer
+ORD049,2024-06-15,CUST143,Venture Capital,North,Electronics,Power Bank,28,48.00,1344.00,John Smith,Credit Card
+ORD050,2024-06-18,CUST144,Growth Partners,South,Furniture,Side Table,10,125.00,1250.00,Sarah Johnson,Wire Transfer

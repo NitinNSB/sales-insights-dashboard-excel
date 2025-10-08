@@ -1,0 +1,24 @@
+# Excel temporary files
+~$*.xls*
+~$*.xlsx
+~$*.xlsm
+*.tmp
+
+# Excel backup files
+*.xlk
+
+# Excel auto-recovery files
+~ar*.xar
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Office temporary files
+~*.ppt*
+~*.doc*
