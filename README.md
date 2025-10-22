@@ -2,7 +2,7 @@
 
 ## 📊 Dashboard
 <p align="center">
-  <img src="https://raw.githubusercontent.com/NitinNSB/sales-insights-dashboard-excel/construction/screenshot/Screenshot%202025-10-08%20140515.png" 
+  <img src="screenshot/Screenshot 2025-10-08 140515.png" 
        alt="Sales Dashboard Screenshot" 
        width="600" 
        style="border-radius:10px; border:1px solid #ddd;">
